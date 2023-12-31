@@ -13,7 +13,7 @@ Disclaimer: Currently, RVInjector is optimized for the regular non-network test 
 
 For convenience, here is the error log:
 
-Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+here is the error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
 
 Rumbleverse!CG::FName::GetNameA() [A:\RumbleverseNT\Rumbleverse\SDK\BasicTypes_Package.cpp:648]
 Rumbleverse!CG::FName::GetName() [A:\RumbleverseNT\Rumbleverse\SDK\BasicTypes_Package.cpp:670]
